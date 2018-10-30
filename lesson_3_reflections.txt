@@ -1,1 +1,6 @@
 First Question?
+
+Why might you want to always pull changes manually rather than having Git automatically stay
+up-to-date with your remote repository?
+
+Local repository might be dirty; local repos might not be ready to merge remote changes
