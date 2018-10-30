@@ -1,0 +1,5 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are github clones,  used to clone a repos one cannot contribute to (or should not)
+Clones are copies of repoisitories,  made from remote repsoitories or local
+branches are series of commits within a repos.  Use to organize development tracks within a repository
