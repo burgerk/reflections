@@ -1,4 +1,5 @@
--What happens when you initialize a repository? Why do you need to do it?
+-
+hat happens when you initialize a repository? Why do you need to do it?
 
 Git creates the needed metadata to function as repos 
 
@@ -22,6 +23,11 @@ by providing a multi-dim timeline
 
 -What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+Commits are merged   
+Line feeds matter in merges.  https://help.github.com/articles/dealing-with-line-endings/#platform-all
+Compare a commit implicitly to its parent:  git show commit_id
+log w/ branches: git log --graph --oneline 
 
 -What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
